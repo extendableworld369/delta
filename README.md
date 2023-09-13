@@ -1,2 +1,1 @@
-# delta
-My first repository
+
